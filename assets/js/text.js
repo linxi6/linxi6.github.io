@@ -4,8 +4,8 @@ if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
 let divTyping = document.getElementById('xf_type')
 let i = 0,
     timer = 0,
-    str = '此页面由原生HTML，CSS，JS开发! 本站UI由小枫原创，并且源图和代码全部开源供大家学习使用(严禁商用)。' //text
-    //本人能够能够灵活使用PS,AI,PR,AE,CAD软件的操作,熟练HTML5,CSS3,JavaScript等前端开发技术。并且在学习这些技术的过程中运营过idc行业, 通过售卖云服的过程中学到如何去维护网站及服务器。 21 年下半年有过半年的电商美工经验, 做过淘宝、 拼多多、 虾皮、 速卖通、 国际站平台店铺的装修。（ 轮播、 海报、 LOGO....）淘宝（ PC端首页, 详情）, 速卖通, 国际站平台兼容代码装修实现动态交互效果 兼容CSS3、 banner、 雪花效果、 循环渐变效果....。差不多就这些吧。
+    str = '把自己立成帆，才能招来风<br>心灵纯洁之人，生活充满甜蜜和喜悦<br>我们先学会沉默寡言，又变成满口谎言<br>🧗上坡路总是会走得累一些<br>靠近光，追随光，成为光，发散光<br>小P一直在!!!❤️' //text
+    
 function typing() {
     if (i <= str.length) {
         divTyping.innerHTML = str.slice(0, i++) + '_'
@@ -41,7 +41,7 @@ var binft = function (r) {
             setTimeout(i, d)
     }
     var l = "",
-        o = ["大道至简,开发由我","饿了么,一起来学习吧",].map(function (r) {
+        o = ["你是我的眸中星，也是我的心上人","苔花如米小，也学牡丹开","这世界偷偷偷帮着你书写出独特的着迷","人生不长，喜欢你这件事我不想隐瞒",].map(function (r) {
             return r + "."
         }),
         a = 2,
