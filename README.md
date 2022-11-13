@@ -1,5 +1,4 @@
 # linxi6.github.io
 
-心动效果:linxi6.github.io/zhiaizzl
+主页效果:linxi6.github.io
 
-只爱ZZL
