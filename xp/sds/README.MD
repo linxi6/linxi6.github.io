@@ -4,6 +4,6 @@
 
  https://linxi6.github.io/xp/sds/2.html
 
- https://linxi6.github.io/xp/sds/3.html
+ https://linxi6.github.io/xp/sds/3
 
 
