@@ -4,9 +4,7 @@
 
 我仅作翻译处理以及其他优化
 
-Demo 1：https://nianbroken.github.io/Firework_Simulator/
-
-Demo 2：https://fireworks.nianbroken.top/
+Demo 1：https://linxi6.github.io/xp/yanhua
 
 ------
 
@@ -16,4 +14,3 @@ Demo 2：https://fireworks.nianbroken.top/
 
 ------
 
-若有翻译错译或其他问题，请在`Issues`提交。
